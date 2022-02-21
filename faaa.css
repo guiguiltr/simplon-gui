@@ -1,13 +1,5 @@
 body{
-background-image: #e7e7e7;
-color:  #FFF;
-}
-
-.content {
-	background: #FFF url(sasa.jpg) no-repeat center bottom;
-	margin: 0 auto;
-	padding: 0px;
-	width: 990px;
-	height: 900px;
-	color: #000;
+	color: ;
+	background-image: linear-gradient(rgba(0, 0, 2000, 0.5), rgba(2000, 2000, 0, 0.5)),
+                  url("../../media/examples/lizard.png");
 }
